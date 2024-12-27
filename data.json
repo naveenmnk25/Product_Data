@@ -22,5 +22,11 @@
         "name": "Apple",
         "imageUrl": "apples001.jpg",
         "type": 1
+    },
+    {
+        "id": 5,
+        "name": "Apple",
+        "imageUrl": "curd001.jpg",
+        "type": 3
     }
 ] 
