@@ -2,19 +2,19 @@
     {
         "id": 1,
         "name": "GRP",
-        "imageUrl": "",
+        "imageUrl": "https://d392o9g87c202y.cloudfront.net/grbdairy/products/ghee/ghee3.png",
         "type": 1
     },
     {
         "id": 2,
         "name": "curd",
-        "imageUrl": "",
+        "imageUrl": "https://www.archanaskitchen.com/images/archanaskitchen/BasicRecipes_HOW_TO/How_To_Make_Fresh_Homemade_Yogurt_Curd.jpg",
         "type": 1
     },
     {
         "id": 3,
         "name": "Apple",
-        "imageUrl": "",
+        "imageUrl": "https://www.ampimex.in/wp-content/uploads/2021/02/apples-.jpg",
         "type": 2
     }
 ]
