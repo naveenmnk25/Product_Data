@@ -16,5 +16,11 @@
         "name": "Apple",
         "imageUrl": "apples001.jpg",
         "type": 2
+    },
+    {
+        "id": 4,
+        "name": "Apple",
+        "imageUrl": "apples001.jpg",
+        "type": 1
     }
 ] 
